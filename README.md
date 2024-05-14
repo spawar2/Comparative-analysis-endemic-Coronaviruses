@@ -1,4 +1,4 @@
-# Comparative-analysis-endemic-Coronaviruses
+# Comparative-analysis-endemic-Coronaviruses collaboration with Dr. Bagasra, Claflin University  https://www.claflin.edu/academics-research/faculty-research/meet-our-faculty/omar-bagasra
 [R: ggplots]
 [Paper:](https://www.tandfonline.com/doi/full/10.1080/19932820.2023.2209949)
 
