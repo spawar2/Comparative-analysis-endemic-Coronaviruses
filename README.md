@@ -9,3 +9,4 @@ Potential use of endemic human coronaviruses to stimulate immunity against patho
 ††
 †Corresponding author. ††First author. †††Second author. ††††Third author. †††††author.
 ![download](https://github.com/user-attachments/assets/4584d94a-ff2d-48cf-89c9-50d73dafea08)
+![download](https://github.com/user-attachments/assets/03c7dcee-acb2-4196-938d-b382f0c68829)
